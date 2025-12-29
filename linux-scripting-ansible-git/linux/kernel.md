@@ -1,0 +1,1 @@
+# What is Kernel and Why kernel is heart of the linux machine
