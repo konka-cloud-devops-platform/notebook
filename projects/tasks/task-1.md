@@ -52,9 +52,8 @@
 ```
 4. Configure Global Pipelines
 5. Create folder called platform images in Jenkins
-   - under create jenkins-platform-image,node-platform-image,python-platform-image and nginx-platform-image
-   - configure pipelines
-
+- create jenkins pipelines for jenkins-platform-image,node-platform-image,python-platform-image and nginx-platform-image
+- configure pipelines
 
 ---
 
